@@ -1,0 +1,8 @@
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/icudtl.dat
+E:/Masterclass/masterclass/build/windows/runner/Debug/flutter_windows.dll
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Masterclass/masterclass/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
